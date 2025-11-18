@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://www2.unifap.br/nti/files/2016/11/Gradua%C3%A7%C3%A3o-a-dist%C3%A2ncia-ou-presencial-Descubra-qual-a-ideal-para-voc%C3%AA.jpg'); 
+    color: blue;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}   
+
+form {
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+    width: 400px;
+    height: 200px;
+    margin-top: 12%;
+}
+
+h1, a {
+    color: white;
+}
